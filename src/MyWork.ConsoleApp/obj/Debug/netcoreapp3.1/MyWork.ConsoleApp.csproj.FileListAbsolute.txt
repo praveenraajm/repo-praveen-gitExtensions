@@ -1,0 +1,14 @@
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.exe
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.deps.json
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.runtimeconfig.json
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.runtimeconfig.dev.json
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.dll
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\bin\Debug\netcoreapp3.1\MyWork.ConsoleApp.pdb
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.AssemblyInfo.cs
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.dll
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.pdb
+C:\Users\prave\Desktop\Work\src\MyWork.ConsoleApp\obj\Debug\netcoreapp3.1\MyWork.ConsoleApp.genruntimeconfig.cache
